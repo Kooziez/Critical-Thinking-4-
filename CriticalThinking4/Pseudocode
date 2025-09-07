@@ -1,0 +1,6 @@
+START
+	-Ask the user for 10 numbers, 0-100, that represent grades
+	-Use a for-loop to read the 10 numbers
+	-Using a while-loop terminate the entry if it is not valid 
+	-Using the 10 numbers provided calculate the average, maximum, and minimum grade numbers
+END
